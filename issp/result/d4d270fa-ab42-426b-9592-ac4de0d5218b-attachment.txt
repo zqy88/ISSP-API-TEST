@@ -1,0 +1,1 @@
+{"success":false,"msg":"此用户名已存在！","errorCode":110003,"total":0,"pageSize":0,"pageNum":0,"pages":0,"list":null}
